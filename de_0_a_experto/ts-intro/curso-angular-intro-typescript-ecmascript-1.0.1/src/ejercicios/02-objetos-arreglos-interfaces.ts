@@ -1,7 +1,7 @@
 //let habilidades : (boolean | string |number)[]= ["bash", "counter", "healing"];
 //habilidades.push("1");
 
-let habilidades : ( string)[]= ["bash", "counter", "healing"];
+let habilidades : string[]= ["bash", "counter", "healing"];
 
 interface Personaje{
  nombre: string;
